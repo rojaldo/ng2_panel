@@ -6,10 +6,11 @@
 ## Data binding
 - [Ejemplo 1](https://plnkr.co/edit/tr2Fug) Uso de básico de [ngModel]
 - [Ejemplo 2](https://plnkr.co/edit/enEbly) Varios tipos de binders.
-- [Ejemplo 3](https://plnkr.co/edit/boLEnT) Ejemplo de Input
-- [Ejemplo 4](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange()
-- [Ejemplo 5](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
-- [Ejemplo 6](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
+- [Ejemplo 3](https://plnkr.co/edit/WugYX5) Binder con progress bar.
+- [Ejemplo 4](https://plnkr.co/edit/boLEnT) Ejemplo de Input
+- [Ejemplo 5](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange()
+- [Ejemplo 6](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
+- [Ejemplo 7](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
 
 ## Formularios
 - [Ejemplo 1](https://plnkr.co/edit/zG3YbgZBwSXF79ncxbL4) Formulario simple con visualización de resultado.
