@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Directivas
+- [Ejemplo 0](https://plnkr.co/edit/91jEaD) Directiva creada con @Directive
+- [Ejemplo 1](https://plnkr.co/edit/3wR2NJ) Ejemplo de ngClass
+- [Ejemplo 2](https://plnkr.co/edit/jqwA9A) Ejemplo con ngStyle para aumentar el tamaño de la fuente.
 
-You can use the [editor on GitHub](https://github.com/rojaldo/ng2_panel/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Data binding
+- [Ejemplo 1](https://plnkr.co/edit/tr2Fug) Uso de básico de [ngModel]
+- [Ejemplo 2](https://plnkr.co/edit/enEbly) Varios tipos de binders.
+- [Ejemplo 3](https://plnkr.co/edit/boLEnT) Ejemplo de Input
+- [Ejemplo 4](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange()
+- [Ejemplo 5](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
+- [Ejemplo 6](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Formularios
+- [Ejemplo 1](https://plnkr.co/edit/zG3YbgZBwSXF79ncxbL4) Formulario simple con visualización de resultado.
+- [Ejemplo 2](https://plnkr.co/edit/OCzfuF) Otro formulario simple.
+- [Ejemplo 3](https://plnkr.co/edit/QjWJkE) Formulario completo.
+- [Ejemplo 4](https://plnkr.co/edit/98qvIA) Formulario con validación.
+- [Ejemplo 5](https://plnkr.co/edit/M4s58rLOtfStvr0Xp178) Formulario con validación e indicaciones para el usuario.
+- [Ejemplo 6](https://plnkr.co/edit/g4jicN) Formulario con Custom Validators.
+- [Ejemplo 7](https://plnkr.co/edit/I74EEa) Formulario con validación condicional.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rojaldo/ng2_panel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Misc
+- [Ejemplo 1](https://plnkr.co/edit/HlOqWj) Ejemplo complejo de validación.
