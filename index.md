@@ -8,10 +8,10 @@
 - [Ejemplo 2](https://plnkr.co/edit/enEbly) Varios tipos de binders.
 - [Ejemplo 3](https://plnkr.co/edit/WugYX5) Binder con progress bar.
 - [Ejemplo 4](https://plnkr.co/edit/UIkSri) Comunicación entre componentes.
-- [Ejemplo 4](https://plnkr.co/edit/boLEnT) Ejemplo de Input.
-- [Ejemplo 5](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange().
-- [Ejemplo 6](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
-- [Ejemplo 7](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
+- [Ejemplo 5](https://plnkr.co/edit/boLEnT) Ejemplo de Input.
+- [Ejemplo 6](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange().
+- [Ejemplo 7](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
+- [Ejemplo 8](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
 
 ## Formularios
 - [Ejemplo 1](https://plnkr.co/edit/zG3YbgZBwSXF79ncxbL4) Formulario simple con visualización de resultado.
