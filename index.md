@@ -12,6 +12,7 @@
 - [Ejemplo 6](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange().
 - [Ejemplo 7](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
 - [Ejemplo 8](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
+- [Ejemplo 9](https://plnkr.co/edit/nBMHpR) Comunicación entre componentes con la opción de usar un broadcast a todos.
 
 ## Formularios
 - [Ejemplo 1](https://plnkr.co/edit/zG3YbgZBwSXF79ncxbL4) Formulario simple con visualización de resultado.
@@ -22,7 +23,7 @@
 - [Ejemplo 6](https://plnkr.co/edit/g4jicN) Formulario con Custom Validators.
 - [Ejemplo 7](https://plnkr.co/edit/I74EEa) Formulario con validación condicional.
 
-## Routes
+## Routers
 - [Ejemplo 1](https://plnkr.co/edit/5bXClX) Ejemplo de route básico.
 - [Ejemplo 2](https://plnkr.co/edit/A5S5Jh) Ejemplo de Route con una de las rutas encadenada.
 
