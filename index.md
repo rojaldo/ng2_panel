@@ -25,8 +25,8 @@
 - [Ejemplo 7](https://plnkr.co/edit/I74EEa) Formulario con validación condicional.
 
 ## Routers
-- [Ejemplo 1](https://plnkr.co/edit/5bXClX) Ejemplo de route básico.
-- [Ejemplo 2](https://plnkr.co/edit/A5S5Jh) Ejemplo de Route con una de las rutas encadenada.
+- [Ejemplo 1](https://plnkr.co/edit/5bXClX) Ejemplo de router básico.
+- [Ejemplo 2](https://plnkr.co/edit/A5S5Jh) Ejemplo de router con una de las rutas encadenada.
 
 ## Misc
 - [Ejemplo 1](https://plnkr.co/edit/HlOqWj) Ejemplo complejo de validación.
