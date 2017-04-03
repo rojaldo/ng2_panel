@@ -10,6 +10,7 @@
 - [Ejemplo 4](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange()
 - [Ejemplo 5](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
 - [Ejemplo 6](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
+- [Ejemplo 7](https://plnkr.co/edit/nBMHpR) Comunicación entre componentes con la opción de usar un broadcast a todos.
 
 ## Formularios
 - [Ejemplo 1](https://plnkr.co/edit/zG3YbgZBwSXF79ncxbL4) Formulario simple con visualización de resultado.
