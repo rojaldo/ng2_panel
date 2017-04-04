@@ -28,5 +28,14 @@
 - [Ejemplo 1](https://plnkr.co/edit/5bXClX) Ejemplo de router básico.
 - [Ejemplo 2](https://plnkr.co/edit/A5S5Jh) Ejemplo de router con una de las rutas encadenada.
 
+## Http
+
+
+## Testing
+- [Ejemplo 1](https://plnkr.co/edit/MwId2t) Ejemplo de testing para un componente
+- [Ejemplo 2](https://plnkr.co/edit/GSoa3V) Uso de Async para una plantilla externa al componente
+- [Ejemplo 3](https://plnkr.co/edit/VJqGwi) Caso mas complejo de testing con fakeAsync
+- [Ejemplo 3](https://plnkr.co/edit/88sDIS) Appcomponent testing
+
 ## Misc
 - [Ejemplo 1](https://plnkr.co/edit/HlOqWj) Ejemplo complejo de validación.
