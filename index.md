@@ -29,7 +29,10 @@
 - [Ejemplo 2](https://plnkr.co/edit/A5S5Jh) Ejemplo de router con una de las rutas encadenada.
 
 ## Http
-
+- [Ejemplo 1](https://plnkr.co/edit/U3c591) Modelo con promise
+- [Ejemplo 2](https://plnkr.co/edit/aNjsth) Modelo simple con Observable
+- [Ejemplo 3](https://plnkr.co/edit/p1ctac) Ejemplo de petición al api de spotify
+- [Ejemplo 4](https://plnkr.co/edit/hbEaKh) Uso de Observable para consultar el cambio de Bitcoin a Dolar
 
 ## Testing
 - [Ejemplo 1](https://plnkr.co/edit/MwId2t) Ejemplo de testing para un componente
