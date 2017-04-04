@@ -42,3 +42,4 @@
 
 ## Misc
 - [Ejemplo 1](https://plnkr.co/edit/HlOqWj) Ejemplo complejo de validación.
+- [Ejemplo 2](https://plnkr.co/edit/I5wrQ5) Permitir el uso de cookies por parte del usuario.
