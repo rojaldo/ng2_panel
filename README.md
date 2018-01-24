@@ -12,6 +12,9 @@
 - [Ejemplo 6](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
 - [Ejemplo 7](https://plnkr.co/edit/nBMHpR) Comunicación entre componentes con la opción de usar un broadcast a todos.
 
+##HTTP
+ - [Ejemplo 1](https://plnkr.co/edit/sq0hWh?p=preview) Consulta a un API REST con un servicio usando el patrón Observable
+
 ## Formularios
 - [Ejemplo 1](https://plnkr.co/edit/zG3YbgZBwSXF79ncxbL4) Formulario simple con visualización de resultado.
 - [Ejemplo 2](https://plnkr.co/edit/OCzfuF) Otro formulario simple.
