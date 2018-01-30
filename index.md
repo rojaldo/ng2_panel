@@ -9,7 +9,7 @@
 - [Ejemplo 3](https://plnkr.co/edit/WugYX5) Binder con progress bar.
 - [Ejemplo 4](https://plnkr.co/edit/UIkSri) Comunicación entre componentes.
 - [Ejemplo 5](https://plnkr.co/edit/boLEnT) Ejemplo de Input.
-- [Ejemplo 6](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange().
+- [Ejemplo 6](https://plnkr.co/edit/Ikg8q0) Ejemplo de Output e Input.
 - [Ejemplo 7](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
 - [Ejemplo 8](https://plnkr.co/edit/WlvMGD) Directivas en typescript.
 - [Ejemplo 9](https://plnkr.co/edit/YXx8xy) Ejemplo claro de @output
