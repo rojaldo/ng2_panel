@@ -10,8 +10,12 @@
 - [Ejemplo 3](https://plnkr.co/edit/WugYX5) Binder con progress bar.
 - [Ejemplo 4](https://plnkr.co/edit/UIkSri) Comunicación entre componentes.
 - [Ejemplo 5](https://plnkr.co/edit/boLEnT) Ejemplo de Input.
+<<<<<<< HEAD
 - [Ejemplo 5](https://plnkr.co/edit/Ikg8q0) Ejemplo de Input y Output.
 - [Ejemplo 6](https://plnkr.co/edit/NsAaaU) Ejemplo de Output y onChange().
+=======
+- [Ejemplo 6](https://plnkr.co/edit/Ikg8q0) Ejemplo de Output e Input.
+>>>>>>> cb06962f592a03726e48aaa7b350f967467b4191
 - [Ejemplo 7](https://plnkr.co/edit/nhCPQn) Input, Output con EventEmiter().
 - [Ejemplo 8](https://plnkr.co/edit/YXx8xy) Ejemplo claro de @output
 - [Ejemplo 9](https://plnkr.co/edit/nBMHpR) Comunicación entre componentes con la opción de usar un broadcast a todos.
