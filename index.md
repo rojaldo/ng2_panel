@@ -31,6 +31,10 @@
 - [Ejemplo 2](https://plnkr.co/edit/Dx5v6xwvQGssNsL59cHJ?p=info) Ejemplo de UI Router con estados.
 - [Ejemplo 3](https://plnkr.co/edit/1wB5QZSPvvCJZXBWMLXU?p=info) Ejemplo de UI Router con parámetros en los estados.
 
+## Angular Google Maps
+- [Documentaciñón de AGM](https://angular-maps.com/)
+- [Ejemplo](https://stackblitz.com/edit/angular-google-maps-demo-su1kx2) Mapa centrado y con marcas
+
 
 ## Http
 - [Ejemplo 1](https://plnkr.co/edit/sq0hWh?p=preview) Consulta a un API REST con un servicio usando el patrón Observable.
@@ -48,3 +52,4 @@
 ## Misc
 - [Ejemplo 1](https://plnkr.co/edit/HlOqWj) Ejemplo complejo de validación.
 - [Ejemplo 2](https://plnkr.co/edit/I5wrQ5) Permitir el uso de cookies por parte del usuario.
+
